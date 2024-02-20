@@ -1,2 +1,2 @@
 # Simple-Neural-Networks
-Simple Neural Networks (hand-coded and in PyTorch)
+Simple Neural Networks (hand-coded and with PyTorch).
